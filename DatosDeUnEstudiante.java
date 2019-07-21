@@ -1,3 +1,11 @@
+/****************************************
+*NOMBRE:CHRISTIAN SIMBAÑA
+*CARRERA:ANALISIS DE SISTEMAS 
+*ASIGNATURA:PROGRAMACION VISUAL II
+*NOM. PROFESOR:FERNANDO SOLIS
+*TEMA:datos estudiante
+*FECHA:
+*****************************************/
 import java.util.Scanner;
 public class DatosDeUnEstudiante {
     public static void main(String[] args) {

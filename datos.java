@@ -1,3 +1,11 @@
+/****************************************
+*NOMBRE:CHRISTIAN SIMBAÑA
+*CARRERA:ANALISIS DE SISTEMAS 
+*ASIGNATURA:PROGRAMACION VISUAL II
+*NOM. PROFESOR:FERNANDO SOLIS
+*TEMA:datos estudiante
+*FECHA:
+*****************************************/
 public class Datos {   
     String nombre;
     String apellido;
